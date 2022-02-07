@@ -9,7 +9,7 @@
   
     <div class="container mx-auto mt-5 mx-5">
         <h1 class="text-3xl font-bold underline py-5 sm:text-stone-300">
-            Hello world!
+            Hello world! Hola mundo
         </h1>
         <div class="sm:bg-orange-300 md:bg-orange-100 p-5">
             <button class='bg-blue-500 text-white font-bold py-2 px-4 rounded hover:bg-blue-700'>
